@@ -1,0 +1,1589 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html dir="ltr" lang="en-gb" class="no-js iem7"> <![endif]-->
+<!--[if lt IE 7 ]><html dir="ltr" lang="en-gb"     class="no-js ie6 oldie paranai"> <![endif]-->
+<!--[if IE 7 ]><html dir="ltr" lang="en-gb"      class="no-js ie7 oldie paranai"> <![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="en-gb"      class="no-js ie8 oldie paranai"> <![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="en-gb" class="no-js ie9 oldie"> <![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html  lang="en-gb"  class="no-js page-147 current-lang-en-gb page-en-gb-147 html-board-of-directors ">
+<!--<![endif]-->
+<head>
+    <link href="/newweb/images/favicon.ico" rel="icon" type="image/x-icon"/>
+    <meta http-equiv="Content-Type" content="text/html;" charset="UTF-8"/>
+    <meta name="viewport" content=" initial-scale=1.0,width=device-width">
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#4285f4">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#4285f4">
+	<link rel="image_src" type="image/jpeg" href="https://www.combank.net/newweb/templates/main/img/logo.png" />
+   <script src="/newweb/templates/main/js/loadCSS.js" type="text/javascript"></script>
+  <script id="loadcss">
+    loadCSS( "https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800");
+  </script>
+    <link href="/newweb/templates/main/styles/style.php" rel="stylesheet" type="text/css"/>
+	<!-- <link href="/newweb/templates/main/styles/styles-cha.css" rel="stylesheet" type="text/css"/> -->
+    <script src="/newweb/templates/main/js/main.js" type="text/javascript"></script>
+    <script src="/newweb/templates/main/js/fontdetect.js?ver=0.3" type="text/javascript"></script>
+	<script src="/newweb/templates/main/js/sizer/dw_event.js" type="text/javascript"></script>
+    <script src="/newweb/templates/main/js/sizer/dw_cookies.js" type="text/javascript"></script>
+    <script src="/newweb/templates/main/js/sizer/dw_sizerdx.js" type="text/javascript"></script>
+	<script type="text/javascript">
+// setDefaults arguments: size unit, default size, minimum, maximum
+// optional array of elements or selectors to apply these defaults to
+dw_fontSizerDX.setDefaults("px", 13, 9, 24, ['body'] );
+
+// set arguments: default size, minimum, maximum
+// array of elements or selectors to apply these settings to
+dw_fontSizerDX.set(18, 12, 24, ['h2'] );
+
+// set arguments: default size, minimum, maximum
+// array of elements or selectors to apply these settings to
+dw_fontSizerDX.set(18, 12, 24, ['h3'] );
+
+// set arguments: default size, minimum, maximum
+// array of elements or selectors to apply these settings to
+dw_fontSizerDX.set(12, 12, 18, ['p'] );
+
+// set arguments: default size, minimum, maximum
+// array of elements or selectors to apply these settings to
+dw_fontSizerDX.set(18, 12, 24, ['span'] );
+
+// set arguments: default size, minimum, maximum
+// array of elements or selectors to apply these settings to
+dw_fontSizerDX.set(13, 13, 20, ['li a'] );
+
+// set arguments: default size, minimum, maximum
+// array of elements or selectors to apply these settings to
+dw_fontSizerDX.set(18, 12, 24, ['a'] );
+
+// set arguments: default size, minimum, maximum
+// array of elements or selectors to apply these settings to
+dw_fontSizerDX.set(14, 14, 18, ['label'] );
+
+
+dw_Event.add( window, 'load', dw_fontSizerDX.init );
+</script>
+<!--	<script language="Javascript"  src="http://www.bw2017.lk/new/stats.php?page=2017"/></script> -->
+   <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/newweb/templates/main/js/jquery.min.js"><\/script>')</script>
+    <script src="/newweb/templates/main/js/jquery.cookie.js" type="text/javascript"></script> -->
+
+	
+	<meta property="og:url" content="https://www.combank.net/newweb/en/" />
+
+    <meta property="og:image" content="https://www.combank.net/newweb/templates/main/img/logo.png" />
+
+
+	
+        <script>
+        function createBookmark(url) {
+            $.cookie('homepage', url, {expires: 365});
+            hidehome();
+        }
+    </script>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Interest rates, Car loan, Leasing, Educational loan, Home loan, Banking services, Mortgages, Financial Services, Banking banks, Money transfer, Personal loans, Commercial Banking, Fixed deposits, Online banking, Debit Cards, Bank online, Money transfer" />
+	<meta name="description" content="Commercial Bank, the only Sri Lankan Bank among the top 1000 Banks worldwide is known as the benchmark private sector bank in Sri Lanka" />
+	<meta name="generator" content="Pyxle Content Management System" />
+	<title>Board Of Directors | Commercial Banking | Commercial Bank Sri Lanka - Commercial Bank Sri Lanka</title>
+	<link href="/newweb/templates/bod/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
+    <!--<script src="/newweb/templates/main/js/readmore.min.js"></script>
+    <script src="/newweb/templates/main/js/jquery.flexslider.js"></script>
+    <script src="/newweb/templates/main/js/jquery.sidr.min.js"></script>
+    <script type="text/javascript" src="/newweb/templates/main/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" src="/newweb/templates/main/js/dataTables.responsive.js"></script>
+    <script src="/newweb/media/jui/js/chosen.jquery.min.js" type="text/javascript"></script>
+    <script src="/newweb/templates/main/js/jquery-ui.js"></script> -->
+            <script type="text/javascript">var switchTo5x=true;</script>
+        <script type="text/javascript" src="/newweb/templates/main/js/buttons.js"></script>
+        <script type="text/javascript">stLight.options({publisher: "ur-e05b789a-5e7c-9e8b-eb08-73c4b193cb20", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+    <script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+   ga('create', 'UA-9945933-4', 'auto');
+  ga('send', 'pageview');
+
+ 
+</script>
+
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 876551860;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script defer type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/876551860/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+</head>
+<script>
+    window.onload = function() {
+        var detective = new Detector();
+        //console.log(detective.detect('Open Sans'));
+        if(!detective.detect('Open Sans')){
+            $('<link rel="stylesheet" type="text/css" href="/newweb/templates/main/styles/open-sans.css" />').appendTo('head');
+        }
+    };
+
+    var is_safari = navigator.userAgent.indexOf("Safari") > -1;
+    var is_chrome = navigator.userAgent.indexOf('Chrome') > -1;
+
+    $.fn.ripple = function (options) {
+        var container;
+        var properties = {
+            color: 'grey'
+        };
+        $.extend(properties, options);
+        $(this).mousedown(function (e) {
+            container = $(this);
+            var size, x, y;
+            container.css({
+                overflow: 'hidden',
+                position: 'relative'
+            });
+            if (container.find('.ink').length === 0) {
+                container.prepend("<span class='ink'></span>");
+            }
+            var ink = container.find('.ink');
+            ink.removeClass('animated');
+            if (!ink.height() && !ink.width()) {
+                size = Math.max(container.outerWidth(), container.outerHeight());
+                ink.css({background: properties.color, height: size, width: size});
+            }
+            x = e.pageX - container.offset().left - ink.width() / 2;
+            y = e.pageY - container.offset().top - ink.height() / 2;
+            ink.css({
+                top: y,
+                left: x,
+            }).addClass('animated').addClass('pressed');
+        });
+        $(this).mouseup(function () {
+            container = $(this);
+            container.find('.ink').removeClass('pressed');
+        });
+    };
+
+    $(function () {
+        $('.text_area_slider').addClass('run');
+
+
+        if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+            $('body').addClass('safari');
+        }
+        if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
+            $('body').addClass('safari');
+        }
+
+        $('.side_linkers ul li > a').ripple({color: '#ffffff'});
+        $('.sideBar ul a').ripple({color: '#e2e2e2'});
+        $('.right_top_header ul li a').ripple({color: '#43a2e8'});
+
+        if ($(window).width() < 1000) {
+            $('.mid_left ul li').removeClass('active ');
+            $('.sub_menu_items').removeClass('activate ');
+        }
+
+        sidebar_height = $('.sideBar').height();
+        banner_height = $('.inner_page_banner').height();
+        $('.cover_eliments').css('min-height', sidebar_height + banner_height + 120);
+
+
+        var $sidebar = $(".sideBar"),
+            $window = $(window),
+            offset = $sidebar.offset(),
+            topPadding = 20;
+        $sidebar.css('margin-top', -20);
+        get_height = $sidebar.height() / 1;
+        $window.scroll(function () {
+            if ($(window).scrollTop() + $(window).height() > $(document).height() - get_height) {
+                //console.log('kasun');
+            } else {
+                if ($window.scrollTop() > offset.top) {
+                    $sidebar.stop().animate({
+                        marginTop: $window.scrollTop() - offset.top + topPadding
+                    });
+                    $sidebar.addClass('activate');
+                    $('.hidden_title').slideDown("slow");
+                } else {
+                    $sidebar.stop().animate({
+                        marginTop: -20
+                    });
+                    $sidebar.removeClass('activate');
+                    $('.hidden_title').slideUp("fast");
+                }
+            }
+
+        });
+
+        // Auto search
+        $('.chzn-done').chosen();
+        $(".item_identity").click(function () {
+            $('#favourites').toggleClass('actives');
+        });
+
+    });
+    function hidehome() {
+        $('.bookmark_bar').hide();
+    }
+</script>
+<script> $(document).ready(function () {
+        $(".lol").click(function () {
+            var ide = this.title;
+            $('html,body').animate({scrollTop: $("#" + ide).offset().top - 50}, 1000);
+            $('.sideBar li').removeClass('active');
+            $(this).closest('li').addClass('active');
+        });
+    }); </script>
+<body
+    class="body-page-147 body-current-lang-en-gb body-page-en-gb-147  body-board-of-directors ">
+
+<!-- Google Code for Remarketing Tag -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 924593195;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script defer type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/924593195/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<div class="bookmark_bar orange-box">
+    <div class="contents_covers">
+        We have detected that you are using an outdated browser. Using your current browser will prevent you from
+        accessing all features of our website. An upgrade is required to improve your browsing experience. Use the links
+        below to download a new browser or upgrade your existing browser.<br><br>
+        <ul class="obsolute-browsers">
+            <li><a target="_blank" href="http://www.google.com/chrome/" title="opens new window">
+                    <img src="/newweb/templates/main/img/browser/google-chrome-icon.png" alt="Google Chrome">
+                    <span>Google <br>Chrome</span>
+                </a></li>
+            <li><a target="_blank" href="https://www.mozilla.org/en-US/firefox/new/" title="opens new window">
+                    <img src="/newweb/templates/main/img/browser/firefox-512.png" alt="Mozilla Firefox">
+                    <span>Mozilla <br>Firefox</span>
+                </a></li>
+            <li><a target="_blank" href="http://windows.microsoft.com/en-my/internet-explorer/download-ie" title="opens new window">
+                    <img src="/newweb/templates/main/img/browser/Internet_Explorer_9_icon.png" alt="Internet Explorer">
+                    <span>Internet <br>Explorer</span>
+                </a></li>
+            <li><a target="_blank" href="http://www.opera.com/" title="opens new window">
+                    <img src="/newweb/templates/main/img/browser/Opera-icon-high-res.png" alt="Opera">
+                    <span>Opera</span>
+                </a></li>
+            <li><a target="_blank" href="http://support.apple.com/downloads/#safari" title="opens new window">
+                    <img src="/newweb/templates/main/img/browser/safari-120.png" alt="Apple Safari">
+                    <span>Apple Safari</span>
+                </a></li>
+        </ul>
+        <br><br>
+        <div class="error-online">Online Banking user please click here <strong><a
+                    href="https://www.commercialbk.com/online/2/2/22001.aspx" target="_blank" title="opens new window"
+                    class="online_button_error">Online Banking</a></strong></div>
+    </div>
+</div>
+<div class="popup_box">
+    <a href="#_" class="closers">&nbsp;</a> <!-- WCAG Requirement -->
+    <div class="scrollers wysiwyg">
+
+    </div>
+
+</div>
+
+<div class="popup_box_ithin">
+    <div class="scrollers wysiwyg">
+
+    </div>
+
+</div>
+
+
+<div class="fading_bgs"></div>
+
+
+<script type="text/javascript" language="javascript" class="init">
+    function menu_toggler(tabname, clicked) {
+        if ($(tabname).hasClass("activate")) {
+
+            $('.sub_menu_items ').removeClass('activate');
+            $('.mid_left ul li ').removeClass('active');
+            $('#product_sub_menu').addClass('activate');
+            $('.products').addClass('active');
+        }
+        else {
+            $('.sub_menu_items ').removeClass('activate');
+            $(tabname).addClass('activate');
+            $('.mid_left ul li ').removeClass('active');
+
+            $('.' + clicked).addClass('active');
+            //alert(clicked);
+        }
+    }
+    $(document).ready(function () {
+
+
+        $('.item_icons').click(function () {
+            $(this).toggleClass('activater');
+        });
+        $('.closing.button').click(function () {
+            $('#favourites').removeClass('actives');
+        });
+        $('table').addClass('display');
+
+
+        $('.header ul li').append('<span class="aroows"></span>');
+        $('.side_menu .scrollers .product_link').prepend($('.main_menu_mobile').html());
+        $('.side_menu .scrollers ').append($('.main_top_links').html());
+        $(".burger-menu, .closers_new").click(function () {
+            $('body').toggleClass('hidden_contents');
+            $('.blue_fades').fadeToggle();
+            $('.side_menu').toggleClass('activates');
+
+        });
+        $(".products").click(function () {
+            menu_toggler('#product_sub_menu', $(this).attr('class'));
+        });
+        $(".services").click(function () {
+            menu_toggler('#service_sub_menu', $(this).attr('class'));
+        });
+        $(".need").click(function () {
+            $('.Sharer').fadeToggle('fast');
+            menu_toggler('#need_to_tab', $(this).attr('class'));
+
+
+        });
+        $("a.search_item,  .search_closer").click(function () {
+            $('.tablet_search ').fadeToggle();
+        });
+        $('.sideBar').prepend('<a href="#_" class="mobile_menu_items"><span class="menu_texts">Menu</span><span class="plus_mark">+</span></a>');
+        $(".mobile_menu_items").click(function () {
+            $('.quick-contact').fadeToggle();
+            $('.sideBar ul').slideToggle();
+            $('.sideBar h3, .contact_sidebar_item').slideToggle();
+            $(this).toggleClass('activate');
+        });
+
+        // kasun pop up
+        jQuery(".popo-link").click(function () {
+
+            get_value = jQuery(this).find(".text_inject").html();
+            jQuery('.popup_box .scrollers').html(get_value);
+            jQuery('.popup_box').fadeIn();
+            jQuery('.fading_bgs').fadeIn();
+        });
+        jQuery(".closers , .fading_bgs").click(function () {
+            jQuery('.popup_box').fadeOut();
+            jQuery('.fading_bgs').fadeOut();
+			jQuery('.popup_box_ithin').fadeOut();
+        });
+		
+		 // Chamara
+        jQuery(".popo-link-ithin").click(function () {
+
+            get_value = jQuery(this).find(".text_inject_acc_open").html();
+			jQuery.get('/newweb/en/account-inquiry-form', function(data) {
+			  jQuery('.popup_box_ithin .scrollers').html(data);
+			});
+            jQuery('.popup_box_ithin').fadeIn();
+            jQuery('.fading_bgs').fadeIn();
+        });
+        jQuery(".closers , .fading_bgs").click(function () {
+            jQuery('.popup_box_ithin').fadeOut();
+            jQuery('.fading_bgs').fadeOut();
+        });
+       
+		
+		
+
+    });
+</script>
+<div class="side_menu">
+    <div class="main_slide_logo">
+        Menu <a href="#_" class="closers_new">&#10006;</a>
+    </div>
+    <div class="scrollers">
+        <div class="product_link">
+            <h2 class="title-personal ">Rates</h2>
+            <ul class="contents menus-personal">
+                <li><a href="/newweb/rates-tariffs" class="next width-max ">Rates &amp; Tariffs</a></li>
+                <li><a href="/newweb/rates-tariffs/exchange-rates" class="next width-max ">Exchange Rates</a></li>
+            </ul>
+        </div>
+        <ul class="custom_nav">
+            <li class="item-5002 parent"><a href="/newweb/en/offers">Card Offers</a><span
+                    class="aroows"></span></li>
+        </ul>
+    </div>
+</div>
+<div class="blue_fades"></div>
+<div id="wrapper">
+    <div class="favourite-holder">
+        <div class="item_identity">
+            <div id="favourite_count">0</div>
+        </div>
+        <div id="favourites">
+            <a href="javascript:void(0);" class="closing button">&nbsp;</a><!-- WCAG Requirement -->
+            <a href="javascript:void(0);" class="favorite_button_word fav" onclick="addToFavourite()">Add to
+                Favourite</a>
+            <div class="scroll">
+                <ol>
+                    <li>No favourites yet!</li>
+                </ol>
+            </div>
+        </div>
+        <div class="Sharer">
+
+            <a href="#_" class="favorite_button share_buttons st_sharethis_large" displayText='ShareThis'><span></span></a>
+        </div>
+		<div id="sizer">	<!-- WCAG Rquirement -->					
+			<a class="increase" href="#" title="Increase text size"><img src="/newweb/images/sizer/plus.gif" alt="Increase text size" border="0" /></a>
+			<a class="reset" href="#" title="Restore default font-sizes"><img src="/newweb/images/sizer/reset.gif" alt="Restore default font-sizes" border="0" /></a>
+            <a class="decrease" href="#" title="Decrease text size"><img src="/newweb/images/sizer/minus.gif" alt="Decrease text size" border="0" /></a>
+	    </div>	
+    </div>
+    <div class="header_header">
+        <div class="header">
+
+            <div class="top_header">
+                <div class="left_top_header">
+                    <ul>
+                        <li><a href="/newweb" title="Commercial Bank Sri Lanka"
+                               class="house_icon"></a></li>
+                        <li class="top-menu-item-1"><a
+                                href="/newweb/en/personal">Personal</a>
+                        </li>
+                        <li class="top-menu-item-2"><a
+                                href="/newweb/en/business">Business</a>
+                        </li>
+                        <li class="top-menu-item-3"><a
+                                href="/newweb/en/non-resident">Non Resident</a>
+                        </li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+                <div class="right_top_header">
+                    <div class="tablet_search activate" style="display:none;">
+                        <form id="site_search" name="site_search" action="/newweb/search"
+                              method="POST">
+							<label for="q">&nbsp;</label>
+                            <input name="q" id="q" type="search" placeholder="Search" maxlength="255">
+                            <a href="#_" class="search_closer">&#10006 </a>
+                            <input id="submit" type="submit" value="" class="submit-search search_item">
+                            <input type="hidden" name="8a9f763c1d321f04f54d92046f0d1e5e" value="1" />                        </form>
+                    </div>
+											<span class="main_top_links">
+												<ul class="nav menu">
+<li class="item-137 active parent"><a href="/newweb/en/about-us" >About Us</a></li><li class="item-138 parent"><a href="/newweb/en/branches-atms" >Branches/ATMs</a></li><li class="item-139"><a href="/newweb/en/investors" >Investors</a></li><li class="item-140"><a href="/newweb/en/news" >News</a></li><li class="item-141"><a href="/newweb/about-us/careers" >Careers</a></li><li class="item-142"><a href="/newweb/en/contact" >Contact</a></li></ul>
+
+											</span>
+                    <ul class="functional">
+                        </li>
+                                                                                        </ul>
+                    <div class="item_icons">
+                        <!--<a href="#_" >International Branches / Subsidiaries</a>    -->
+                        <a href="/newweb/info/494">Overseas Operations</a> <!-- Mulitilingual changes -->
+                        <!-- <span class="aroow_items"></span> -->
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="main_header">
+                <div class="mid_left">
+                    <ul>
+                        <li class="active products"><a href="#_">Products</a>
+                        </li>
+                                                    <li class="services"><a href="#_">Services</a>
+                            </li>                        <li class="need"><a href="#_">I need to</a>
+                        </li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+                <a href="https://www.commercialbk.com/online/2/2/22001.aspx" target="_blank" title="opens new window"
+                   class="online_button float_to_position">Online Banking</a>
+
+                                <div class="logo">
+                    <a href="/newweb" title="Commercial Bank Sri Lanka"><img
+                            src="/newweb/templates/main/img/logo.png" alt="Commercial Bank Sri Lanka"
+                            title="Commercial Bank Sri Lanka"/>
+                    </a>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+        </div>
+        <div class="blu_stripe"></div>
+        <div class="gredient_stripe"></div>
+        <div class="sub_menu_items activate" id="product_sub_menu">
+            <div class="sub_contents">
+                <ul class="menu-featured">	<li class="menu-item-1"><a href="/newweb/en/personal/savings">Savings</a></li>
+	<li class="menu-item-2"><a href="/newweb/en/personal/deposits">Deposits</a></li>
+	<li class="menu-item-3"><a href="/newweb/en/personal/current-accounts">Current Accounts</a></li>
+	<li class="menu-item-4"><a href="/newweb/en/personal/loans">Loans</a></li>
+	<li class="menu-item-5"><a href="/newweb/en/personal/cards">Cards</a></li>
+	<li class="menu-item-6"><a href="/newweb/en/personal/services">Services</a></li>
+	<li class="menu-item-14"><a href="/newweb/en/personal/elite-banking">Elite Banking</a></li>
+</ul>
+
+            </div>
+        </div>
+        <div class="sub_menu_items" id="service_sub_menu">
+            <div class="sub_contents">
+                <ul class="menu-service-featured">	<li class="service-menu-item-171"><a href="/newweb/en/personal/services/dialog-ez-cash">Dialog eZ Cash</a></li>
+	<li class="service-menu-item-172"><a href="/newweb/en/personal/services/remittance-card">Remittance Card</a></li>
+	<li class="service-menu-item-191"><a href="/newweb/en/personal/services/flash-digital-bank-account">Flash Digital Bank Account</a></li>
+	<li class="service-menu-item-202"><a href="/newweb/en/personal/services/qplus">ComBank Q+ App</a></li>
+	<li class="service-menu-item-154"><a href="/newweb/en/personal/services/bancassurance">Bancassurance</a></li>
+	<li class="service-menu-item-156"><a href="/newweb/en/personal/services/mobitel-mcash">Mobitel mCash</a></li>
+	<li class="service-menu-item-168"><a href="/newweb/en/personal/services/e-passbook">e-Passbook</a></li>
+<li class="service-menu-item-1024"><a href="/newweb/en/personal/services#_link_19">Online Banking</a></li>
+<li class="service-menu-item-1025"><a href="/newweb/en/personal/services#_link_20">Mobile Banking</a></li>
+</ul>
+            </div>
+
+        </div>
+        <div class="sub_menu_items" id="need_to_tab">
+            <div class="content">
+                <div class="container">
+                    <div class="icon-cover">
+                        <div class="left-discription">
+                            
+
+<div class="custom"  >
+	<h1>I need to...</h1>
+<p><span>Get to know what you should be aware of when deciding to buy a car, build a house, investing for your retirement and many other activities.  </span></p></div>
+
+
+                        </div>
+                        <div class="icon-container">
+                            <ul class="menu">
+                                                                    <li><a href="/newweb/en/wizard/buy-a-house"><img
+                                                src="/newweb/images/house.png" alt="Buy a house"/><span>Buy a house</span></a></li>
+                                                                    <li><a href="/newweb/en/wizard/manage-expenditure"><img
+                                                src="/newweb/images/finance.png" alt="Manage expenditure"/><span>Manage expenditure</span></a></li>
+                                                                    <li><a href="/newweb/en/wizard/buy-a-car"><img
+                                                src="/newweb/images/cars_icon3.png" alt="Buy a car"/><span>Buy a car</span></a></li>
+                                                                    <li><a href="/newweb/en/wizard/get-a-credit-card"><img
+                                                src="/newweb/images/cards4.png" alt="Get a Credit Card"/><span>Get a Credit Card</span></a></li>
+                                                                    <li><a href="/newweb/en/wizard/invest-for-retirement"><img
+                                                src="/newweb/images/cash.png" alt="Invest for retirement"/><span>Invest for retirement</span></a></li>
+                                                                    <li><a href="/newweb/en/wizard/send-money-home"><img
+                                                src="/newweb/images/sending_money.png" alt="Send money home"/><span>Send money home</span></a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a href="#sidr-main" class="burger-menu">
+            <div class="burger"></div>
+        </a>
+    </div>
+    <div class="main_menu_mobile ">
+        <h2 class="title-personal">Personal</h2>
+        <ul class="contents menus-personal">
+            <li><a href="/newweb/en/personal">Overview</a></li>
+                            <li class="menu-item-1"><a
+                        href="/newweb/en/personal/savings">Savings</a>
+                </li>
+                            <li class="menu-item-2"><a
+                        href="/newweb/en/personal/deposits">Deposits</a>
+                </li>
+                            <li class="menu-item-3"><a
+                        href="/newweb/en/personal/current-accounts">Current Accounts</a>
+                </li>
+                            <li class="menu-item-4"><a
+                        href="/newweb/en/personal/loans">Loans</a>
+                </li>
+                            <li class="menu-item-5"><a
+                        href="/newweb/en/personal/cards">Cards</a>
+                </li>
+                            <li class="menu-item-6"><a
+                        href="/newweb/en/personal/services">Services</a>
+                </li>
+                            <li class="menu-item-14"><a
+                        href="/newweb/en/personal/elite-banking">Elite Banking</a>
+                </li>
+            </ul>
+        <h2 class="title-business">Business</h2>
+        <ul class="contents menus-business">
+            <li><a href="/newweb/en/business">Overview</a></li>
+                            <li class="menu-item-7"><a
+                        href="/newweb/en/business/domestic-banking">Domestic Banking</a>
+                </li>
+                            <li class="menu-item-8"><a
+                        href="/newweb/en/business/international-banking">International Banking</a>
+                </li>
+                            <li class="menu-item-9"><a
+                        href="/newweb/en/business/treasury">Treasury</a>
+                </li>
+                            <li class="menu-item-10"><a
+                        href="/newweb/en/business/sme">SME</a>
+                </li>
+                            <li class="menu-item-6"><a
+                        href="/newweb/en/business/services">Services</a>
+                </li>
+                            <li class="menu-item-18"><a
+                        href="/newweb/en/business/investment-banking">Investment Banking</a>
+                </li>
+            </ul>
+        <h2 class="title-nonresident">Non Resident</h2>
+        <ul class="contents menus-nonresident">
+            <li><a href="/newweb/en/non-resident">Overview</a></li>
+                            <li class="menu-item-1"><a
+                        href="/newweb/en/non-resident/savings">Savings</a>
+                </li>
+                            <li class="menu-item-2"><a
+                        href="/newweb/en/non-resident/deposits">Deposits</a>
+                </li>
+                            <li class="menu-item-4"><a
+                        href="/newweb/en/non-resident/loans">Loans</a>
+                </li>
+                            <li class="menu-item-11"><a
+                        href="/newweb/en/non-resident/investments">Investments</a>
+                </li>
+                            <li class="menu-item-12"><a
+                        href="/newweb/en/non-resident/sending-money-home">Sending Money Home</a>
+                </li>
+            </ul>
+
+
+    </div>
+    <div class="cover_eliments">
+        <script>
+            /*
+             $('.burger-menu').sidr({
+             name: 'sidr-main',
+             source: '.main_menu_mobile, .main_top_links'
+             });
+             */
+            $('.sidr-class-contents').hide();
+            $(document).ready(function () {
+                var animTime = 300,
+                    clickPolice = false;
+
+                $(document).on('touchstart click', '.product_link h2', function () {
+                    //alert('kasun');
+
+                    if (!clickPolice) {
+                        clickPolice = true;
+                        $('ul.contents ').slideUp('500');
+                        $(this).next('ul').slideDown('500');
+                        $('.product_link h2').removeClass('activates');
+                        $(this).addClass('activates');
+
+                        setTimeout(function () {
+                            clickPolice = false;
+                        }, 300);
+                    }
+
+                });
+
+                // pop up
+                $(".museum-gallery").click(function () {
+                    $(".content_inject").click(function () {
+                        $(this).toggleClass('activate');
+                    });
+
+                    $('.material_popup ').addClass('show_item');
+                    $('.material_fade').fadeIn('fast');
+                    //$('.material_fade').css('top',relY);
+                    $('#parenthoriTab').easyResponsiveTabs({
+                        type: 'default', //Types: default, vertical, accordion
+                        width: 'auto', //auto or any width like 600px
+                        fit: true, // 100% fit in a container
+                        closed: 'accordion', // Start closed if in accordion view
+                        tabidentify: 'hor_1', // The tab groups identifier
+                        activate: function (event) { // Callback function if tab is switched
+                            var $tab = $(this);
+                            var $info = $('#nested-tabInfo2');
+                            var $name = $('span', $info);
+                            $name.text($tab.text());
+                            $info.show();
+                            $(".branch_box").css('opacity', '0');
+                            $(".branch_box").each(function (i, e) {
+                                window.setTimeout(function () {
+                                    $(e).css('opacity', '1');
+                                }, Math.random() * 700);
+                            });
+                        }
+                    });
+
+                });
+                $(".material_fade, .mat_close").click(function () {
+                    $('.material_popup ').removeClass('show_item');
+                    $('.material_fade').fadeOut('slow');
+                    //$('.material_fade').css('top',relY);
+                });
+
+            });
+        </script>
+												
+    <div class="coverings">
+        <div class="text_area_slider ">
+            <h1><br />Board of Directors</h1>        </div>
+    </div>
+<div class="inner_page_banner" style="background-image: url(/newweb/images/imgs/bod1.jpg)">
+    <div class="gredient_image"></div>
+
+</div>
+<div class="blue_stripe_main">
+    <div class="coverings">
+        <div class="sideBar">
+            <ul class="nav menu">
+<li class="item-143 alias-parent-active"><a href="/newweb/en/about-us" >Overview</a></li><li class="item-144 parent"><a href="/newweb/en/about-us/our-history" >Our History</a></li><li class="item-145"><a href="/newweb/about-us/achievements" >Achievements</a></li><li class="item-146"><a href="/newweb/about-us/social-responsibility" >Corporate Social Responsibility</a></li><li class="item-147 current active"><a href="/newweb/en/about-us/board-of-directors" >Board of Directors</a></li><li class="item-148"><a href="/newweb/en/about-us/corporate-management" >Corporate Management</a></li><li class="item-227 parent"><a href="/newweb/about-us/careers" >Careers</a></li><li class="item-230"><a href="/newweb/en/about-us/commitment-towards-un-global-compact" >Commitment Towards UN Global Compact</a></li><li class="item-231"><a href="/newweb/en/about-us/code-of-ethics" >Code of Ethics</a></li></ul>
+
+			<div class="contact_sidebar_item siedbar-contact-include">
+	<a href="javascript:void(0)" class="quick-contact popo-link">Inquiries
+		<div class="text_inject" style="display:none">
+			<div class="text_inject_content">
+				<div class="iframe_box">
+					<div class="grey_area contact-form-gray">
+    <div id="container" class="wysiwig">
+       <div class="form-left">
+       		<h2>Let us know</h2>
+            <p>If you have any questions or feedback, please send us a message</p>
+       </div>
+       <div class="contact-form form-right">
+             <div class="mail-status">
+				</div>
+<form novalidate method="post" action="" name="contact_form" id="contact_form" autocomplete="on" class="">
+	<fieldset> <!-- WCAG Requirement -->
+		<legend>&nbsp;</legend> <!-- WCAG Requirement -->
+	<dl>
+		<div class="emoji-form">
+			<dt><label class="emoji-header" for="rate">Rate the quality of service offered by COMBANK <span style="color: #AD2C0D;">*</span>:</label></dt>
+			<dd>
+				<label class="emoji-main" for="emotion5"><img src="/newweb/images/form-emoji/excellent.png" alt="Excellent"> <span class="emoji-text">Excellent</span><input type="radio" name="rate" value="5" id="emotion5"></label>
+				<label class="emoji-main" for="emotion4"><img src="/newweb/images/form-emoji/good.png" alt="Good"><span class="emoji-text">Good</span><input type="radio" name="rate" value="4" id="emotion4"></label>
+				<label class="emoji-main" for="emotion3"><img src="/newweb/images/form-emoji/average.png" alt="Average"> <span class="emoji-text">Average</span><input type="radio" name="rate" value="3" id="emotion3"></label>
+				<label class="emoji-main" for="emotion2"><img src="/newweb/images/form-emoji/poor.png" alt="Poor"> <span class="emoji-text"> Poor</span><input type="radio" name="rate" value="2" id="emotion2"></label>
+				<label class="emoji-main" for="emotion1"><img src="/newweb/images/form-emoji/verypoor.png" alt="Very Poor"> <span class="emoji-text">Very Poor</span><input type="radio" name="rate" value="1" id="emotion1"></label>
+			</dd>
+		</div>
+        <div id ="radio-error"></div>
+		<div class="one-feild">
+			<dt><label for="name" >Your Name <span style="color: #AD2C0D;">*</span>:</label> </dt>
+			<dd><input type="text" class="text-box" name="name" id="name"  value="" title="Your Name" maxlength="255" /></dd>
+		</div>
+		
+		<div class="one-feild">
+			<dt> <label for="email" >Your Email <span style="color: #AD2C0D;">*</span>:</label> </dt>
+			<dd><input type="email" class="text-box" name="email" id="email"  value="" title="Your Email" maxlength="255" /></dd>
+		</div>
+		
+		<div class="one-feild">
+			<dt> <label for="phone" >Phone Number <span style="color: #AD2C0D;">*</span>:</label> </dt>
+			<dd><input type="tel" class="text-box" name="phone" id="phone"  value="" title="phone" maxlength="12" />  </dd>
+		</div>
+		
+		<div class="one-feild">
+			<dt><label for="subject">Subject <span style="color: #AD2C0D;">*</span>:</label> </dt>
+			<dd><select class="text-box select-box select-subject" name="subject" id="subject">
+					<option value="-1">Please select the subject</option>
+										<option value="16">Savings Accounts</option>
+										<option value="17"> Deposits</option>
+										<option value="18">Credit & Debit Cards</option>
+										<option value="31">POS / Chinese Payments</option>
+										<option value="32">Internet Payment Gateway</option>
+										<option value="19"> Home Loans</option>
+										<option value="20">Leasing & Personal Loans</option>
+										<option value="21">Online & Mobile Banking</option>
+										<option value="23"> e-Exchange & Other Remittances</option>
+										<option value="24">NRFC Accounts</option>
+										<option value="25">SWIFT Fund Transfers (Inward / Outward)</option>
+										<option value="26">Treasury Bills & Bonds</option>
+										<option value="34">Import Transactions</option>
+										<option value="35">Export Transaction</option>
+										<option value="28">SME Loans & Micro Finance</option>
+										<option value="33">Bancassurance</option>
+										<option value="29">Complaints</option>
+										<option value="30">Others</option>
+									</select>
+			</dd>
+		</div>
+		
+		<div class=""> 
+			<dt><label for="message">Your Message <span style="color: #AD2C0D;">*</span>:</label></dt>
+			<dd><textarea id="message"  cols="40" rows="8" name="message" maxlength="500"></textarea></dd>
+		</div>
+		<div class="cfsubmit">
+		
+			<dt><label for="vcode">Verification Code <span style="color: #AD2C0D;">*</span>:</label></dt>
+			<dd><input id="vcode" type="number" name="vcode" class="text-box vcode" maxlength="4"/> <img src="/newweb/verificationimage.php?8500" alt="verification image, type it in the box" width="50" height="24" align="absbottom"  style=" vertical-align:middle;"/>
+				<input type="hidden" name="8a9f763c1d321f04f54d92046f0d1e5e" value="1" />	<input type="submit" value="Send" class="button send" name="submit" />	
+		    </dd>
+			
+		
+		</div>
+	</dl>
+	</fieldset>	
+</form>
+
+<script>
+	// Validation override default message
+	jQuery.extend(jQuery.validator.messages, {
+		email: "Please enter a valid email address"
+	});
+	
+	// Validation reg-ex add-on
+	$.validator.addMethod("regex", function(value, element, regexpr) { return regexpr.test(value); }, "");
+	
+	// contact form validation
+	$('#contact_form').validate({
+		rules: {
+			rate: {
+			    required: true,
+			},
+			name: { required: true, regex: /^[a-zA-Z]+[a-zA-Z,\s]+\s*$/ },
+			email: { required: true, regex: /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/ },
+			phone: { required: true, minlength: 7, regex: /^[0-9,\+]+[0-9,\s]+$/ },
+			subject: { required: true },
+			message: { required: true  },
+			vcode: { required: true,  regex: /^[0-9]{4,4}$/ }
+		},
+		messages: {
+		    rate: {
+                required: "You must select a emotion",
+            },
+			name: { required: "Please enter your name", regex: "Please enter a valid name" },
+			email: { required: "Please enter your email address", regex: "Please enter a valid email address" },
+			phone: { required: "Please enter a phone number", minlength: "Please enter valid phone number",  regex: "Please enter valid phone number" },
+			subject: { required: "Please select the subject" },
+			vcode: { required: "Please enter the verification code", regex: "Please enter valid verification code" }
+		},
+        errorPlacement: function(error, element) {
+		    if(element.is(':radio')){
+                $('#radio-error').text("You must select a emotion").css({'color':'#900','font-weight':'900', 'font-size': '12px' });
+            }else{
+                error.insertAfter( element );
+            }
+        },
+		submitHandler: function(form) {
+			return true;
+		}
+	});
+</script>
+        </div>
+</div>
+<div class="clear"></div>
+</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</a>
+	<div class="contact_sidebar">
+<h3>Contact us</h3>
+<a class="contact_link tel" href="tel:+94 112353333"><span class="icons"></span>+94 11 2353333</a> <a class="contact_link email" href="mailto:info@combank.net"><span class="icons"></span>info@combank.net</a></div>
+</div>
+<script>
+	$(document).ready(function() {
+		if ($("#contact_form.openContact").length > 0) {
+			$("a.quick-contact.popo-link").trigger('click');
+		}
+	});
+</script>        </div>
+        <div class="text_object">
+            <div class="breadcrums">
+<ul itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
+			<li class="active">
+			<span class="divider icon-location"></span>
+		</li>
+	
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a itemprop="item" href="/newweb/en/" class="pathway"><span itemprop="name">Home</span></a>
+				
+									<span class="divider">
+						 &gt; 					</span>
+								<meta itemprop="position" content="1">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a itemprop="item" href="/newweb/en/about-us/achievements" class="pathway"><span itemprop="name">About Us</span></a>
+				
+									<span class="divider">
+						 &gt; 					</span>
+								<meta itemprop="position" content="2">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="active">
+				<span itemprop="name">
+					Board of Directors				</span>
+				<meta itemprop="position" content="3">
+			</li>
+		</ul>
+</div>
+			<p>Our Board of Directors has individually and collectively made a unique contribution to our growth. Together they have brought in leadership, innovation and a flair that has set a benchmark that cannot be matched.</p>
+		</div>
+        <div class="clear"></div> 
+    </div>
+</div>
+<div class="container" class="wysiwig">
+    <div class="content_wrapper management">
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/K-G-D-D-Dheerasinghe.jpg" alt="K G D D Dheerasinghe" title="K G D D Dheerasinghe" />
+            </div>
+            <div class="wide_text_items">
+				<h4>K G D D Dheerasinghe</h4>
+				<small>Chairman</small><br>
+				<p>Mr Dheerasinghe, an eminent Economist with a distinguish career of over 40 years in the banking industry was appointed to the Board on December 20, 2011. Prior to his appointment as Chairman on 29th of July 2014, Mr Dheerasinghe was the Deputy Chairman of the Bank. Previously Mr Dheerasinghe was the Senior Deputy Governor of the Central Bank of Sri Lanka and was also the Chairman of the Monetary Policy Committee and Sovereign Ratings Committee. He was also the Alternate Executive Director for Bangladesh, Bhutan, India and Sri Lanka at the International Monetary Fund. Mr Dheerasinghe has published widely in many aspects of economics including debt capital markets and financial globalization and has over 30 referred articles in reputed journals and as book chapters in Sri Lanka and overseas. He has also presented more than 50 papers at international seminars. Mr Dheerasinghe currently serves in the Board of Management of National Science Foundation. He is also a Visiting Lecturer and Moderator/Examiner in Universities of Colombo, Kelaniya, Sri Jayawardenapura and Moratuwa and several professional bodies in Sri Lanka. He has made a significant contribution to the development of the government debt securities market by innovating and structuring key financial instruments and developing its institutional framework. Mr Dheerasinghe is a graduate of the University of Colombo where he has obtained B.Com and B.Phil (Econ) with first class honours. He has obtained M.A.(Econ) from the University of Leeds, UK and is an Honorary Fellow of the Institute of Bankers of Sri Lanka and holder of Honorary ACI Diploma.</p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/M-P-Jayawardena.jpg" alt="M P Jayawardena" title="M P Jayawardena" />
+            </div>
+            <div class="wide_text_items">
+				<h4>M P Jayawardena</h4>
+				<small>Deputy Chairman</small><br>
+				<p>Mr Jayawardena was appointed to the Board of Commercial Bank in December 2011 and was appointed as Deputy Chairman of the Bank on 29th July 2014. He is a Fellow of the Institute of Chartered Accountants of Sri Lanka and accounts for nearly 35 years post qualifying experience both locally and overseas specializing in Finance &amp; Treasury Operations. He was with Zambia Consolidated Copper Mines for 13 years in many senior positions including the Head of Treasury, managing an international loan portfolio of over US$ 2 billion. Currently he serves as the Group Consultant at Chemanex PLC after stepping down as the Company’s Managing Director in March 2013. He is the Chairman of Lanka Rating Agency (Formerly Ram Rating) and Commercial Insurance Brokers (Pvt) Ltd. He is also a Group Director of CIC Holdings PLC and John Keells Foods PLC. Mr. Jayawardena is also a Member of the Monetary Policy Consultative Committee of the Central Bank of Sri Lanka and the Deputy Chairman of the Sri Lanka Institute of Directors.</p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/S-Renganathan.jpg" alt="S Renganathan" title="S Renganathan" />
+            </div>
+            <div class="wide_text_items">
+				<h4>S Renganathan</h4>
+				<small>Managing Director / Chief Executive Officer</small><br>
+				<p>Mr Sivakrishnarajah Renganathan is a career banker who has served Commercial Bank throughout the entirety of his working career; Mr Renganathan has held several key positions in the Bank and been deeply involved in its evolution and growth. In July 2003, he led the Bank’s acquisition of the Bangladesh operations of Credit Agricole Indosuez (CAI), Commercial Bank’s first ever acquisition of a banking operation, and was appointed Country Manager – Bangladesh, in which capacity he led a team of 225 over a five year tenure, building up the Bank’s operations in Bangladesh. On his return to Sri Lanka from Bangladesh, Mr Renganathan was appointed the Bank’s first Chief Risk Officer (CRO) and was responsible for preparing and implementing the Bank’s integrated risk management policy. In April 2011, he was appointed to the pivotal position of Deputy General Manager – Personal Banking in charge of the entire branch network of the Bank . Mr Renganathan was appointed as the Bank’s Chief Operating Officer (COO) and Executive Director on 17th July 2014.</p>
+<p>S Renganathan is a Fellow of the Chartered Institute of Management Accountants, UK (FCMA), Fellow of the IFS School of Finance, UK (Fifs) and a Fellow of the Institute of Bankers Sri Lanka (FIB). He is also an associate member of Financial Services Institute of Australasia. He has received extensive Leadership, Management and Banking training in the USA, London, Japan, Thailand, Abu Dhabi, India and many other countries. He has served among others, as a Member of the General Council of the Institute of Bankers of Bangladesh, as founder President of the Sri Lanka Bangladesh Chamber of Commerce and Industry and Executive Committee member of the Foreign Investors Chamber of Commerce and Industry.</p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/S-Swarnajothi.jpg" alt="S Swarnajothi" title="S Swarnajothi" />
+            </div>
+            <div class="wide_text_items">
+				<h4>S Swarnajothi</h4>
+				<small>Director</small><br>
+				<p>Mr S Swarnajothi is a fellow of the Institute of Chartered Accountants of Sri Lanka and a fellow of the Institute of Certified Management Accountants of Sri Lanka and also a member of Institute of Certified Management Accountants of Australia. He holds a BSc Degree in Management from the University of Sri Jayawardenapura and a MSc in Project Management from the University of Moratuwa. Mr Swarnajothi held office as Auditor General of Sri Lanka from January 2008 to August 2010 and prior to that had held many senior positions in the Public Sector as well as in the Private Sector. Mr Swarnajothi currently functions as the Project Director of the Public Sector Capacity Building Project which position he had held since September 2010. </p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/A-K-W-Jayawardane.jpg" alt="Prof. A K W Jayawardane" title="Prof. A K W Jayawardane" />
+            </div>
+            <div class="wide_text_items">
+				<h4>Prof. A K W Jayawardane</h4>
+				<small>Director</small><br>
+				<p>Prof. A K W Jayawardane is currently the Vice Chancellor of the University of Moratuwa and a Senior Professor in Civil Engineering. He served as the Dean, Faculty of Engineering for six years and as an Endowed Professor in Entrepreneurship at the University of Moratuwa for one year before he assumed duties as the Vice-Chancellor.</p>
+<p>He obtained BSc Eng in Civil Engineering Degree with first class honours from the University of Moratuwa, a Master of Science Degree in Construction from the Loughborough University of Technology UK and a PhD in Construction Management from the same University.</p>
+<p>Prof. Jayawardane served as the President of the Institution of Engineers, Sri Lanka. He is also a Director of Sierra Cables PLC and a member of Board of Management of several other institutions. He is also a Corporate Member, a Fellow and an International Professional Engineer of the Institution of Engineers, Sri Lanka (IESL), CEng, FIE(SL), IntPE(SL), Fellow of the National Academy of Sciences of Sri Lanka, FNAS(SL), Founder Member of the Society of Structural Engineers Sri Lanka MSSE(SL) and a Fellow of the Institute of Project Managers, Sri Lanka, FIPM (SL)</p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/K-Dharmasiri.jpg" alt="K Dharmasiri" title="K Dharmasiri" />
+            </div>
+            <div class="wide_text_items">
+				<h4>K Dharmasiri</h4>
+				<small>Director</small><br>
+				<p>Mr K. Dharmasiri is a career banker with over thirty seven years of diversified banking experience both within and outside Sri Lanka. He commenced his career with Bank of Ceylon (BOC) in 1975 and retired as the General Manager/Chief Executive Officer of the Bank in 2013. Prior to the appointment as the Chief Executive Officer, Mr Dharmasiri has performed duties as an Additional General Manager and a Deputy General Manager covering wide range of banking activities mainly, Corporate &amp; Offshore Banking, Recoveries, Finance &amp; Planning, Marketing and Internal Audit.</p>
+<p>He has served as a Non- executive Nominee Director on the Boards of Janashakthi Insurance Ltd, Sabaragamuwa Development Bank, Merchant Bank of Sri Lanka PLC, BOC Travels (Private) Ltd, BOC Property Developmet &amp; Management (Private) Ltd, Ceybank Holiday Homes (Private) Ltd, Hotels Colombo (1963) Ltd, Ceybank Asset Management Ltd, Lanka Securities (Private) Ltd, Institute of Bankers of Sri Lanka, Lanka Financial Services (Bureau) Ltd and Lanka Clear (Private) Ltd.</p>
+<p>Mr Dharmasiri graduated from the university of Colombo with a First Class Honours in Commerce and Holds a Bachelor of Philosophy in Economics. He is also an associate member of the institute of Bankers of Sri Lanka.</p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/Lakshman_Niyangoda.jpg" alt="Lakshman Niyangoda" title="Lakshman Niyangoda" />
+            </div>
+            <div class="wide_text_items">
+				<h4>Lakshman Niyangoda</h4>
+				<small>Director</small><br>
+				<p>Mr Lakshman Dushyantha Niyangoda is presently serving as the Managing Director/Chief Executive Officer of A Baur &amp; Co. (Pvt) Ltd and counts over 30 years of experience with the Company. He is also a Director of Baur Asia (Pte) Ltd, Singapore. He holds a Bachelor of Science (Agriculture) Degree from the University of Peradeniya. He has also served as a Member of numerous professional bodies, including the Council for Agricultural Research Policy of Sri Lanka, Standing Committee of Agriculture and Veterinary Studies, University Grants Commission and Faculty of Agriculture, University of Peradeniya.</p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/Shiromal_Cooray.jpg" alt="Shiromal Cooray" title="Shiromal Cooray" />
+            </div>
+            <div class="wide_text_items">
+				<h4>Shiromal Cooray</h4>
+				<small>Director</small><br>
+				<p>Ms Nawalage Therese Manouri Shiromal Cooray is the Managing Director of Jetwing Travels (Pvt) Ltd. She is presently serving as the Chairperson of the Sri Lanka Institute of Directors and also serving on the Advisory Council for Tourism.</p>
+<p>She has obtained a Masters in Business Administration from the University of Colombo. She is a Fellow of the Chartered Institute of Management Accountants.</p>
+<p>Ms Cooray has held several key positions at J Walter Thompson, Travel Agents Assciation of Sri Lanka and Sri Lanka Association of Inbound Tour Operations.</p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/Hurulle.jpg" alt="T L B Hurulle" title="T L B Hurulle" />
+            </div>
+            <div class="wide_text_items">
+				<h4>T L B Hurulle</h4>
+				<small>Director</small><br>
+				<p>Mr Themiya Loku Bandara Hurulle is presently serving as Member of the Public Representations Committee - Sri Lanka Constitutional Reform.</p>
+<p>He holds a Diploma in Refrigeration &amp; Air Conditioning (Dip.R), Southbank University, London SE1, UK and Engineering Apprentices I &amp; II Programme from the University of Moratuwa.</p>
+<p>Mr Hurulle also a Corporate Member (M. Inst.R) of the Institute of Refrigeration, Surrey, United Kingdom in 1978.</p>
+<p>He served as the Director General - Telecommunications Regulatory Commission of Sri Lanka.</p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/K-Sripavan.jpg" alt="K Sripavan" title="K Sripavan" />
+            </div>
+            <div class="wide_text_items">
+				<h4>K Sripavan</h4>
+				<small>Director</small><br>
+				<p>Mr Kanagasabapathy Sripavan was appointed as the Chief Justice of the Democratic Socialist Republic of Sri Lanka in January 2015 and held office until March 2017. During this period he functioned as the Chairman of the Judicial Services Commission of Sri Lanka, Chairman of the Incorporated Council of Legal Education, Chairman of the Sri Lanka Judges’ Institute and Chairman of the Superior Court Complex Board of Management.</p>
+<p>Mr Sripavan was enrolled as an Attorney-at-Law of the Supreme Court of Sri Lanka in 1977. He obtained a Diploma in Industrial Law from the University of Colombo in 1992 and Master of Laws from the University of London in 1994.</p>
+<p>He functioned as the Head of the Court of Appeal Unit in the Attorney General’s Department and handled a large volume of work both in the Court of Appeal and in the Supreme Court including Bills and Fundamental Rights Applications. Prior to the elevation to the Court of Appeal Bench he functioned as a Legal Consultant for the National Savings Bank for two years.</p>
+<p>He was appointed a Judge of the Court of Appeal in May 2002 and was elevated to the post of President of the Court of Appeal in March 2007 by his Excellency the President. In March 2008 he was elevated to the Supreme Court Bench.</p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/sanath.jpg" alt="Sanath Manatunge" title="Sanath Manatunge" />
+            </div>
+            <div class="wide_text_items">
+				<h4>Sanath Manatunge</h4>
+				<small> Chief Operating Officer / Executive Director</small><br>
+				<p style="font-weight: 400;">Mr Manatunge joined Commercial Bank in 1989. He held the position of Chief Risk Officer of the Bank, prior to assuming duties as the Deputy General Manager Corporate Banking. Under Mr Manatunge, the Corporate Banking Division of the Bank experienced rapid growth in the loan book and in areas such as Trade Finance fee-based income while maintaining the quality of advances.</p>
+<p style="font-weight: 400;">Mr Sanath Manatunge is a director of the Bank’s Maldivian subsidiary – Commercial Bank of Maldives and Bank’s IT subsidiary, OneZero Company Ltd.</p>
+<p style="font-weight: 400;">A Fellow of the Chartered Institute of Management Accountants, UK (FCMA) and a Chartered Global Management Accountant (CGMA), Mr Manatunge has a Master of Business Administration (MBA) degree from the University of Sri Jayewardenepura. He is also a Fellow Member of the Institute of Bankers – Sri Lanka and a Fellow of the Institute of Certified Management Accountants of Sri Lanka. Mr Manatunge was instrumental in forming the Association of Banking Sector Risk Professionals, Sri Lanka and was its President in 2014. He has also served as a Council Member of the Association of Professional Bankers (APB) and as a member of the CIMA Thought Leadership Commitee.</p>
+<p style="font-weight: 400;">He was also adjudged the “Chief Information Security Officer of the Year” at the EC- Council Global CISO Forum held in Atlanta – USA in September 2013 in recognition of his outstanding contribution in strengthening and promoting information security practices.</p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/BOD/2019/pramith-2.jpg" alt="Pramith Rajapaksha" title="Pramith Rajapaksha" />
+            </div>
+            <div class="wide_text_items">
+				<h4>Pramith Rajapaksha</h4>
+				<small>Company Secretary</small><br>
+				<p><span>Mr Rajapaksha was a</span>ppointed as Company Secretary on 1st April 2019. He joined the Bank on 7th February 2011 as the Assistant Company Secretary and counts over 16 years of experience in the field of Company Secretarial Practice. He also held the position of Company Secretary of Serendib Finance Limited, a fully owned subsidiary of the Bank.</p>
+<p>He is an Associate of the Institute of Chartered Secretaries and Administrators (ICSA – the Governance Institute - UK) and a Graduate of the Institute of Chartered Corporate Secretaries (ICCS) of Sri Lanka. Mr Rajapaksha has had his Primary Education at S Thomas’ College, Mount Lavinia.</p>				<div class="white_fade"></div>
+            </div>    
+            <div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+         </div>
+    <div class="clear"></div>
+    </div>
+<div class="grey_area previous-chairmen"> 
+
+    <div class="container" class="wysiwig">
+    <div class="content_wrapper ">
+        <h3>Previous Chairmen</h3>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/past_chairman_dinesh_weerakkody.jpg" alt="Mr.Dinesh Weerakkody" title="Mr.Dinesh Weerakkody" />
+            </div>
+            <div class="wide_text_items">
+				<h4>Mr.Dinesh Weerakkody</h4>
+				<small>December 2011 – July 2014</small><br>
+								
+            </div>    
+            <div class="clear"></div>
+        </div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/M_J_C_Amarasuriya.jpg" alt="Mr. M. J. C. Amarasuriya" title="Mr. M. J. C. Amarasuriya" />
+            </div>
+            <div class="wide_text_items">
+				<h4>Mr. M. J. C. Amarasuriya</h4>
+				<small>January 1995 – December 2011</small><br>
+								
+            </div>    
+            <div class="clear"></div>
+        </div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/skwickremasinghe.jpg" alt="Mr. S.K Wickremasinghe" title="Mr. S.K Wickremasinghe" />
+            </div>
+            <div class="wide_text_items">
+				<h4>Mr. S.K Wickremasinghe</h4>
+				<small>August 1989 – December 1994</small><br>
+								
+            </div>    
+            <div class="clear"></div>
+        </div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/tennakoon.jpg" alt="Dr. V Tennakoon Q.C." title="Dr. V Tennakoon Q.C." />
+            </div>
+            <div class="wide_text_items">
+				<h4>Dr. V Tennakoon Q.C.</h4>
+				<small>April 1985 – August 1989</small><br>
+								
+            </div>    
+            <div class="clear"></div>
+        </div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/manicavasagar.jpg" alt="Mr. V Manicavasagar" title="Mr. V Manicavasagar" />
+            </div>
+            <div class="wide_text_items">
+				<h4>Mr. V Manicavasagar</h4>
+				<small>April 1980 – March 1985</small><br>
+								
+            </div>    
+            <div class="clear"></div>
+        </div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/sfamarasinghe.jpg" alt="Mr. S.F Amerasinghe" title="Mr. S.F Amerasinghe" />
+            </div>
+            <div class="wide_text_items">
+				<h4>Mr. S.F Amerasinghe</h4>
+				<small>November 1971 – April 1980</small><br>
+								
+            </div>    
+            <div class="clear"></div>
+        </div>
+
+        <div class="wide_data">
+            <div class="imeg_items">
+				<img src="/newweb/images/tsfernando.jpg" alt="Mr. T.S Fernando Q.C" title="Mr. T.S Fernando Q.C" />
+            </div>
+            <div class="wide_text_items">
+				<h4>Mr. T.S Fernando Q.C</h4>
+				<small>June 1969 – November 1971</small><br>
+								
+            </div>    
+            <div class="clear"></div>
+        </div>
+        </div>
+        <div class="clear"></div>
+</div>    
+</div>
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="footer">
+	<div class="top_bar">
+		<div class="inner_contents_footer">
+			<ul>
+				<li class="presonal_footer"><a href="/newweb/personal">Personal</a> <!-- Multilingual changes -->
+				</li>
+				<li class="business_footer"><a href="/newweb/business">Business</a> <!-- Multilingual changes -->
+				</li>
+				<li class="non_resident_footer"><a href="/newweb/non-resident">Non Resident</a> <!-- Multilingual changes -->
+				</li>
+			</ul>
+			<div class="clear"></div>
+		</div>     
+	</div>
+	<div class="mid_bar">
+		<div class="inner_contents_footer">
+			<div class="link_part">
+<h4>Banking</h4>
+<ul>
+<li><a href="/newweb/info/308">Correspondent Banks »</a></li>
+<li><a href="/newweb/images/customer_charter.pdf" rel="alternate">CBSL - Customer Charter »</a></li>
+<li><a href="/newweb/info/463" rel="alternate">Complaints and Grievances »</a></li>
+<li><a href="/newweb/info/457" rel="alternate">Registering 'US persons'<br />under Foreign Account Tax<br />Compliance Act (FATCA) »</a></li>
+</ul>
+<p> </p>
+</div>
+<div class="link_part">
+<h4>quick links </h4>
+<ul>
+<li><a href="/newweb/about-us">About Us »</a></li>
+<li><a href="/newweb/rates-tariffs/exchange-rates">Exchange Rates »</a></li>
+<li><a href="/newweb/investors">Investor Relations »</a></li>
+<li><a tabindex="168" href="http://www.combank.lk/newweb/application-form">WHT Declaration for Senior Citizens »</a><a href="/newweb/rates-tariffs" rel="alternate"> »</a></li>
+<li><a href="/newweb/contact">Contact »</a></li>
+<li><a href="/newweb/news/category/14-notices">Notices »</a></li>
+</ul>
+<div class="clear"> </div>
+</div>   
+			<div class="link_part right_side_link">
+				<h4>Commercial Bank of Ceylon PLC</h4>
+<p>Commercial House, <br />No 21, Sir Razik Fareed Mawatha, <br />P.O. Box 856 Colombo 1, Sri Lanka.</p>
+				<div class="social_links">
+					<a href="https://www.facebook.com/combanksl" target="_blank" title="opens new window"><img src="/newweb/templates/main/img/facebook56.png" alt="facebook"></a>
+					<a href="https://www.youtube.com/channel/UCtObq4iV1jZqEf7cclLLzzA" target="_blank" title="opens new window"><img src="/newweb/templates/main/img/you_tube.png" alt="youtube"></a>
+					<a href="https://www.instagram.com/combank.sl/" target="_blank" title="opens new window"><img src="/newweb/templates/main/img/insta-com.png" alt="instagram"></a>
+					<a href="https://www.linkedin.com/company/combanksl"; target="_blank" title="opens new window"><img src="/newweb/templates/main/img/linkedin-logo.png" alt="linkedin"></a>
+					<a href="http://chats.viber.com/combanksrilanka"; target="_blank" title="opens new window"><img src="/newweb/templates/main/img/viber.png" alt="viber"></a>
+					
+					
+				</div>
+			</div>  
+			<div class="clear"></div>
+		</div>
+		<!--div>
+			<a class="award-bestweb" href="http://www.bestweb.lk/vote/voteme.php?domain=combank.lk"><img class="" src="/newweb/images/vote4us2017.png" alt="logo" width="150" height="150" border="0" align="right"/></a>	
+		</div-->
+	</div>
+	<div class="bottom_bar">
+		<div class="inner_contents_footer">
+			<div class="left_links">
+				<ul class="nav menu">
+<li class="item-180"><a href="/newweb/en/site-map" >Site Map</a></li><li class="item-181"><a href="/newweb/en/legal-notice" >Legal Notice</a></li><li class="item-182"><a href="/newweb/en/accessibility" >Accessibility</a></li><li class="item-183"><a href="/newweb/en/security" >Security</a></li></ul>
+
+			</div>
+			<div class="right_links">
+				<span>&copy; 2019 Commercial Bank of Ceylon PLC, All Rights Reserved </span> | <span>  Website Developed by Pyxle </span>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>     
+</div>
+<script> 
+	</script>
+<script>
+    $('.wide_text_items').readmore({
+        collapsedHeight: 200,
+        moreLink: '<a href="#" class="less_links">Read more ></a>',
+        lessLink: '<a href="#" class="less_links">Close</a>',
+        speed: 500
+	});
+    $( document ).ready(function() {
+		$('.sideBar').prepend('<h3 class="hidden_title">'+ $('.breadcrums ul li:last-child').html()+'</h3>');
+	});
+	if($('.wysiwig_full').find("table").length == $('.wysiwig_full').find("thead").length ){
+		$('.wysiwig_full table').dataTable({
+			aLengthMenu: [ [10, 25, 50, 100, 200, -1], [10, 25, 50, 100, 200, "All"] ],
+			responsive: true,
+			"oLanguage": {
+				"sSearch": "Search : ",
+				"sInfo": "Showing _START_ To _END_ Of _TOTAL_ Entries",
+				"sInfoFiltered": " - filtering from _MAX_ records",
+				"sLengthMenu": "records _MENU_ Display",
+				"sZeroRecords": "No records to show.",
+				"oPaginate": {
+					"sNext": "Next",
+					"sPrevious": "Previous"
+				}
+			}
+		});
+	}
+	if($('.wysiwig').find("table").length == $('.wysiwig').find("thead").length ){
+		$('.wysiwig table').dataTable({
+			responsive: true,
+			"paging":   false,
+			"ordering": false,
+			"info":     false,
+			"bFilter": false
+			/*"aoColumns": ['','','']*/
+		});
+	}
+</script>
+<!-- <script src="/newweb/templates/main/js/jquery.validate.min.js"></script>
+	<script src="/newweb/templates/main/js/additional-methods.min.js"></script>
+<script src="/newweb/templates/main/js/placeholders.min.js"></script> -->
+<script>
+	// Validation reg-ex add-on
+	$.validator.addMethod("regex", function(value, element, regexpr) { return regexpr.test(value); }, "");
+	
+	// site_search form validation
+	$('#site_search').validate({
+		rules: {
+			q: { required: true, regex: /^[a-zA-Z]+[a-zA-Z,\s]+\s*$/ }
+		},
+		messages: {
+			q: { required: "Please enter your search text.", regex: "Please enter valid search text." }
+		},
+		submitHandler: function(form) {
+			return true;
+		}
+	});
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('head').append('<link href="/newweb/templates/main/styles/chrome.css" rel="stylesheet" />');
+        $('#service_sub_menu').addClass('service_sub_menu');  
+	});
+</script>
+<script type="text/javascript">
+    jQuery(function($) {
+        if (/chrom(e|ium)/.test(navigator.userAgent.toLowerCase())) {
+            $('body').css('opacity', '1.0')
+		}
+	})
+</script>
+
+<script>
+    // adds tab index to all a hrefs. WCAG Change 
+    var n = 1; 
+    $('a').each(function() {               
+        $(this).attr('tabindex', n++);
+	});
+	
+    var n = 1;
+    $('.top_header a').each(function() {              
+        $(this).attr('tabindex', n++);
+	});
+	
+    $('.main_header .mid_left .products a').each(function() {              
+        $(this).attr('tabindex', 13);
+	});
+	
+    var n = 14;
+    $('#product_sub_menu a').each(function() {              
+        $(this).attr('tabindex', n++);
+	});
+	
+    $('.main_header .mid_left .services  a').each(function() {              
+        $(this).attr('tabindex', 22);
+	});
+	
+    var n = 23;
+    $('#service_sub_menu a').each(function() {              
+        $(this).attr('tabindex', n++);
+	});
+	
+    $('.main_header .mid_left .need a').each(function() {              
+        $(this).attr('tabindex', 33);
+	});
+	
+    var n = 34;
+    $('#need_to_tab .menu a').each(function() {              
+        $(this).attr('tabindex', n++);
+	});
+	
+    $('.online_button').each(function() {              
+        $(this).attr('tabindex', 40);
+        $(this).on('focus', function(){
+            $('#need_to_tab').removeClass('activate');
+            $('#service_sub_menu').removeClass('activate');
+            $('#product_sub_menu').addClass('activate');
+		});
+	});
+	
+    $('.main_header .mid_left .products a').keydown(function() {
+        // $('.main_header .mid_left .products').addClass('active');
+        $('#product_sub_menu').addClass('activate');
+        if ($('#product_sub_menu').hasClass('activate')){
+            $('.main_header .mid_left .products').addClass('active');
+            $('.main_header .mid_left .services').removeClass('active');
+		}
+	});
+    $('.menu-personal li:last-child a').keydown(function() {
+        $('#product_sub_menu').addClass('activate');
+        $('#service_sub_menu').removeClass('activate');
+        if ($('#product_sub_menu').hasClass('activate')){
+            $('.main_header .mid_left .products').addClass('active');
+            $('.main_header .mid_left .services').removeClass('active');
+		}
+	});
+	
+    $('.main_header .mid_left .services a').keydown(function() {
+        // $('.main_header .mid_left .services').addClass('active');
+        $('#service_sub_menu').addClass('activate');
+        if ($('#service_sub_menu').hasClass('activate')){
+            $('.main_header .mid_left .services').addClass('active');
+            $('.main_header .mid_left .products').removeClass('active');
+		} 
+	});
+    $('.menu-service-personal li:last-child a').keydown(function() {
+        $('#service_sub_menu').addClass('activate');
+        $('#need_to_tab').removeClass('activate');
+        if ($('#service_sub_menu').hasClass('activate')){
+            $('.main_header .mid_left .services').addClass('active');
+            $('.main_header .mid_left .need').removeClass('active');
+		}
+	});
+	
+    $('.main_header .mid_left .need a').keydown(function() {
+        // $('.main_header .mid_left .need').addClass('active');
+        $('#need_to_tab').addClass('activate');
+        if ($('#need_to_tab').hasClass('activate')){
+            $('.main_header .mid_left .need').addClass('active');
+            $('.main_header .mid_left .services').removeClass('active');
+            $('.main_header .mid_left .products').removeClass('active');
+		}
+	});
+    $('#need_to_tab .menu li:last-child a').keydown(function() {
+        $('#need_to_tab').addClass('activate');
+        $('#service_sub_menu').removeClass('activate');
+        $('#product_sub_menu').removeClass('activate');
+        // if ($('#service_sub_menu').hasClass('activate')){
+        //     $('.main_header .mid_left .services').addClass('active');
+        //     $('.main_header .mid_left .need').removeClass('active');
+        // }
+	});
+    
+    //home page left side
+    var n = 41;
+    $('.logo a').each(function() {              
+        $(this).attr('tabindex', n++);
+	});
+    // font re-sizer
+    var n = 42;
+    $('#sizer a').each(function() {              
+        $(this).attr('tabindex', n++);
+	});
+	
+    var n = 45;
+    $('.locator_small a').each(function() {              
+        $(this).attr('tabindex', n++);
+	}); 
+	
+    $('.home_left_bar .side_linkers ul li:nth-child(1) a').each(function() {              
+        $(this).attr('tabindex', 46);
+	});
+    $('.home_left_bar .side_linkers ul li:nth-child(2) a').each(function() {              
+        $(this).attr('tabindex', 47);
+        $('.home_left_bar .side_linkers ul li:nth-child(2) a').focus(function() {
+            $('#Tabtools_panal').removeClass('deactivate');
+		});
+	});
+	
+    var n = 48;
+    $('#Tabtools_panal a').each(function() {              
+        $(this).attr('tabindex', n++);
+	});
+	
+    // about us page
+    var n = 52;
+    $('.quick-contact').each(function() {              
+        $(this).attr('tabindex', n++);
+	});
+	
+    var n_new = 53;
+    $('.contact_sidebar a').each(function() {              
+        $(this).attr('tabindex', n_new++);
+	});
+    
+    // about us page 
+    // $('.contact_sidebar a').each(function() {              
+    //     $(this).attr('tabindex', 44);
+    // });
+	
+	
+    $('.home_left_bar .side_linkers ul li:nth-child(3) a').each(function() {              
+        $(this).attr('tabindex', 52);
+        $('.home_left_bar .side_linkers ul li:nth-child(3) a').focus(function() {
+            $('#Tabtools_panal').addClass('deactivate');
+            $('#Tabrates_panal').removeClass('deactivate');
+			
+		});
+	});
+    var n = 53;
+    $('#Tabrates_panal a').each(function() {              
+        $(this).attr('tabindex', n++);
+	}); 
+    $('.home_left_bar .side_linkers ul li:nth-child(4) a').each(function() {              
+        $(this).attr('tabindex', 55);
+        $('.home_left_bar .side_linkers ul li:nth-child(4) a').focus(function() {
+            $('#Tabtools_panal').addClass('deactivate');
+            $('#Tabrates_panal').addClass('deactivate');
+            $('#Taboffer_tab').removeClass('deactivate');
+		});
+	});
+    var n = 56;
+    $('#Taboffer_tab a').each(function() {              
+        $(this).attr('tabindex', n++);
+	}); 
+    $('.home_left_bar .side_linkers ul li:nth-child(5) a').each(function() {              
+        $(this).attr('tabindex', 63);
+        $('.home_left_bar .side_linkers ul li:nth-child(5) a').focus(function() {
+            $('#Tabtools_panal').addClass('deactivate');
+            $('#Tabrates_panal').addClass('deactivate');
+            $('#Taboffer_tab').addClass('deactivate');
+            // $('.popup_box').css("display","block");
+		});
+	});
+	
+    //sidebar_lists
+	
+    // blue_stripe_main
+    var n_new = 45;
+    $('.blue_stripe_main ul a').each(function() {              
+        $(this).attr('tabindex', n_new++);
+	}); 
+	
+    //breadcrumb
+    var n_new = 55;
+    $('.breadcrumb a').each(function() {              
+        $(this).attr('tabindex', n_new++);
+	});
+	
+    //tab index -1
+    // $('.favourite-holder a').each(function() {              
+    //     $(this).attr('tabindex', -1);
+    // });
+    
+	
+	
+    $('#favourites a').each(function() {              
+        $(this).attr('tabindex', -1);
+	});
+    $('.Sharer a').each(function() {              
+        $(this).attr('tabindex', -1);
+	});
+	
+    $('.main_menu_mobile a').each(function() {              
+        $(this).attr('tabindex', -1);
+	});
+	
+</script>    
+</body>
+</html>
